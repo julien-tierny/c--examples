@@ -2,9 +2,11 @@
 
 ## First configuration (one time operation)
 
+```
 mkdir build
 cd build
 cmake ../
+```
 
 ## Build (from the `build' directory)
 
