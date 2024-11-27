@@ -10,8 +10,12 @@ cmake ../
 
 ## Build (from the `build' directory)
 
+```
 make
+```
 
 ## Run (from the `build' directory)
 
+```
 ./myCoolProgram
+```
