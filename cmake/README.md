@@ -1,7 +1,6 @@
 # Build instructions
 
-## Initial configuration (one time operation, unless source files are added or
-removed)
+## Initial configuration (one time operation, unless source files are added or removed)
 
 ```
 mkdir build
